@@ -13,8 +13,7 @@ class A
 {
 	public static void Main(string[] args)
     	{
-   	 	float dRate,sCost,hCost;      
-        	                           vvvvvvvvvvvvvvvvvvvvvvvvvv
+   	 	float dRate,sCost,hCost;    
         		dRate = float.Parse(args [0]);       
         		sCost = float.Parse(args[1]);         
         		hCost = float.Parse(args[2]);   
